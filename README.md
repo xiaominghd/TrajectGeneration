@@ -1,4 +1,4 @@
-# TrajectGeneration
+# TrajectoryGeneration
 如何挖掘出人群移动模式并基于实时外部环境进行轨迹仿真
 ## **一些想法**
 ### **相关工作**
