@@ -37,7 +37,7 @@
 ---
 ### 数据预处理
 * 对于某一个体i产生的轨迹，计算以上九个特征，得到向量{x_1 , x_2 , x_3 ... x_9 }
-* Min-Max归一化，Min_j和Max_j分别对应在全局范围内特征j的最小值/最大值
+* Min-Max归一化，Min_j和Max_j分别对应在全局范围内第j个特征的最小值/最大值
 
 ![image](https://user-images.githubusercontent.com/33551862/168255288-4ac634c1-1a76-4653-aa73-b0d317b4d7a1.png)
 
